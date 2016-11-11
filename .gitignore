@@ -1,0 +1,17 @@
+.gradle
+gradlew.bat
+.vagrant
+.idea
+build/
+run/
+out
+*.iml
+*.iws
+*.ipr
+tmp
+logs/
+*.ids
+.DS_Store
+infra/docker/api/*.jar
+gradle.properties.bkp
+.java-version
